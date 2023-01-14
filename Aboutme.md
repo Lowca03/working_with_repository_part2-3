@@ -1,4 +1,4 @@
-# About me
+# About me Lorem ipsum!
 kjskfshskhfkdshfdskfdskfdfgdsytss
 # Hobby
 - matematyka
